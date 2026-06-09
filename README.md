@@ -1,27 +1,7 @@
 # 財報分析合集 2026
 
-個人投資研究用途的財報深度分析合集，涵蓋 15 家公司的 Q1 2026 業績。
+個人投資研究用途的財報深度分析合集
 
-## 收錄公司
-
-| 板塊 | 公司 |
-|------|------|
-| 科技 / AI | NVDA · SAP · BIDU · CRWD · PANW · CRCL |
-| 能源 / 儲能 | FLNC |
-| 國防 / 太空 | OUST · OPTX · LUNR · GILT |
-| 消費 / 品牌 | NKE |
-| 醫療 / 儀器 | MOH · BRKR |
-| 加密 / 穩定幣 | CRCL |
-
-## 功能
-
-- 點擊任何卡片展開詳細分析面板
-- 按板塊篩選
-- 每家公司含：核心 KPI · 財務明細 · 四維評分 · 核心風險 · 深度解讀
-
-## 使用方式
-
-直接用瀏覽器開啟 `earnings_collection.html`，或透過 GitHub Pages 訪問。
-
+https://sintszkay.github.io/Earnings-collection/
 ---
 *純個人研究用途，不構成投資建議。*
